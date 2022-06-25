@@ -15,7 +15,14 @@ title: Formula SAE
 	<h3>Aero</h3>
 	<p>yeah, but just don't do it... put the rant here later</p>
 	<h2>The Glory Days</h2>
-	<p>
+	<h3>
+		2019 Season: Powertrain Lead
+	</h3>
+	do I have to write in html for this to show up right? not sure how jekyll compiles md to html maybe i can just wing it. probs not
+	<h3>
+		2018 Season: President
+	</h3>
+	<p>	
 	matlab link splay calcs<br>
 	testing in nyc<br>
 	competition<br>
