@@ -7,21 +7,16 @@ This is a showcase of my engineering outside of work
 Focus should be on problem and solution
 
 -->
----
-layout: default
-title: Formula SAE
----
 <title>
 Fiero
 </title>
 <h1>Fiero</h1>
 
-<button type="button" class="collapsible">Button Trial</button>
-<div class="content">
-	<p>
-		copy stuff from docs over to here <br>
-		add more images
-	</p>
+
+<button class="collapsible" id="yaml">Click here for the code.</button>
+
+<div class="content" id="yamldata" markdown="1">
+  TEST CONTENT
 </div>
 
 <p>
@@ -119,14 +114,16 @@ After doing some research (I work for GM, that certainly helps ) I found that a 
 Hydraulic decoupled suspension
 </p>
 
+
+
+<!-- Start Collapse.html -->
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
-
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
-    var content = this.nextElementSibling;
+    var content = document.getElementById(this.id+"data");
     if (content.style.display === "block") {
       content.style.display = "none";
     } else {
@@ -135,3 +132,4 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+<!-- End Collapse.html -->
