@@ -19,7 +19,7 @@ Focus should be on problem and solution
 <button class="collapsible" id="yaml">Click here for the code.</button>
 
 <div class="content" id="yamldata" markdown="1">
-  TEST CONTENT beep boop test
+  TEST CONTENT test 2
 </div>
 
 <p>
