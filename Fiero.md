@@ -1,7 +1,3 @@
----
-layout: default
-title: Project Car
----
 <html>
 <!--
 Fiero Page
