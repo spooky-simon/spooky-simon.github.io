@@ -1,7 +1,9 @@
-<html>
-<title>
-	Simon's Portfolio
-</title>
+---
+title: Simon's Portfolio
+layout: templates
+filename: index.md
+--- 
+
 <body>
 <h1>Simon's Projects</h1>
 <p>
@@ -12,6 +14,5 @@
 	</ol>
 	i hate html
 </p>
-<a href="Fiero.html">Fiero</a>
+	<a href="Fiero.html">Fiero</a>
 </body>
-</html>
