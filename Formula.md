@@ -1,3 +1,7 @@
+---
+layout: default
+title: Formula SAE
+---
 <html>
 <title></title>
 <body>
