@@ -15,4 +15,4 @@ layout: default
 	</ol>
 	i hate html
 </p>
-<p> test 2 </p> <!-- used to see if site updated-->
+<p> test 3 </p> <!-- used to see if site updated-->
