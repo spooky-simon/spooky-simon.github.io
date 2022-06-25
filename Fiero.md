@@ -8,7 +8,8 @@ This is a showcase of my engineering outside of work
 Focus should be on problem and solution
 
 -->
-
+<title></title>
+<body>
 <h1>Fiero</h1>
 
 <!--
@@ -116,4 +117,5 @@ After doing some research (I work for GM, that certainly helps ) I found that a 
 
 Hydraulic decoupled suspension
 </p>
+</body>
 </html>
