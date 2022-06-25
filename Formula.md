@@ -25,7 +25,12 @@ wheel turn reference frame
 ## The Glory Days
 
 ### 2019 Season: Powertrain Lead
-do I have to write in html for this to show up right? not sure how jekyll compiles md to html maybe i can just wing it. probs not
+
+As a senior, I was given the job to lead the powertrain subsystem. Having never worked in powertrain in FSAE before, my approach was to make sure the work we did under my direction was bulletproof. I focused on documentation, data collection, and knowledge transfer.
+
+We broke the system into smaller systems: Intake, Engine, Exhaust, Drivetrain, and Shifter.
+
+more words here
 
 ### 2018 Season: President
 
