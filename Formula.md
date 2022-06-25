@@ -19,6 +19,7 @@ title: Formula SAE
 		2019 Season: Powertrain Lead
 	</h3>
 	do I have to write in html for this to show up right? not sure how jekyll compiles md to html maybe i can just wing it. probs not
+	
 	<h3>
 		2018 Season: President
 	</h3>
