@@ -18,11 +18,9 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 		
-		<!--
 		{% for page in site.pages %}
-			<a href={{ page.filename }}>{{ page.title }}</a>
+			<a href={{ page.title }}>{{ page.title }}</a>
 		{% endfor %}
-		-->
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
