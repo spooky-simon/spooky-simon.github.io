@@ -9,7 +9,7 @@
 		<li>
 			<a href="Fiero.html">Fiero</a>
 		</li>
-		<li><a href="Formula.html">Formula</a></li>
+		<li><a href="Formula.md">Formula</a></li>
 		<li>other stuff like woodworking and 3d prints</li>
 		<li>test</li><!-- used to see if site updated-->
 	</ol>
