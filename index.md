@@ -1,8 +1,7 @@
+<html>
 <title>
 	Simon's Portfolio
 </title>
-
-<html>
 <body>
 <h1>Simon's Projects</h1>
 <p>
