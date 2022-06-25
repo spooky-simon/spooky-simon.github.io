@@ -24,47 +24,47 @@ Focus should be on problem and solution
 <p>
 docs stuff:
 </p>
+
 <button class="collapsible" id="yaml">Interior</button>
-
 <div class="content" id="yamldata" markdown="1">
-
-<h2>Interior</h2>
-<h3>Dash</h3>
-<p>
-Prototype w sign board and eva foam - need black foam, symmetric dash <br>
-Contact cement eva to sign board, find other matl for substrate? Maybe sendcutsend abs?<br>
-Shortened IP upr trim - 10 deg down form hor<br>
-IP front trim 20 deg fwd from vertical<br>
-DS cross beam 72 deg rwd from vert<br>
-Put gage/gage cluster on ip front trim?<br>
-Ultragauge has windshield mount, can avoid dash gages - $100<br>
-Sheet of black foam https://tntcosplaysupply.com/product/eva-foam-sheets/ - $10<br>
-</p>
-<h3>
-Console
-</h3>
-<p>
-Open? Need to fix power mirrors
-</p>
-<h3>
-Seats
-</h3>
-<p>
-Need new driver at least<br>
-Oh shit handle for pass<br>
-Harness<br>
-maybe<br>
-</p>
-<h3>
-Steering Wheel
-</h3>
-<p>
-https://www.fiero.nl/forum/Forum2/HTML/128119.html<br>
-Adapter https://www.amazon.com/NRG-Innovations-SRK-170H-Hub-Adapter/dp/B001BC2J4G - $130<br>
-Quick release: https://getnrg.com/products/srk-200?variant=37067015880854 - $140<br>
-New steering wheel? $150-300 (NRG for ~120 as of early 2022)<br>
-</p>
+	<h2>Interior</h2>
+	<h3>Dash</h3>
+	<p>
+	Prototype w sign board and eva foam - need black foam, symmetric dash <br>
+	Contact cement eva to sign board, find other matl for substrate? Maybe sendcutsend abs?<br>
+	Shortened IP upr trim - 10 deg down form hor<br>
+	IP front trim 20 deg fwd from vertical<br>
+	DS cross beam 72 deg rwd from vert<br>
+	Put gage/gage cluster on ip front trim?<br>
+	Ultragauge has windshield mount, can avoid dash gages - $100<br>
+	Sheet of black foam https://tntcosplaysupply.com/product/eva-foam-sheets/ - $10<br>
+	</p>
+	<h3>
+	Console
+	</h3>
+	<p>
+	Open? Need to fix power mirrors
+	</p>
+	<h3>
+	Seats
+	</h3>
+	<p>
+	Need new driver at least<br>
+	Oh shit handle for pass<br>
+	Harness<br>
+	maybe<br>
+	</p>
+	<h3>
+	Steering Wheel
+	</h3>
+	<p>
+	https://www.fiero.nl/forum/Forum2/HTML/128119.html<br>
+	Adapter https://www.amazon.com/NRG-Innovations-SRK-170H-Hub-Adapter/dp/B001BC2J4G - $130<br>
+	Quick release: https://getnrg.com/products/srk-200?variant=37067015880854 - $140<br>
+	New steering wheel? $150-300 (NRG for ~120 as of early 2022)<br>
+	</p>
 </div>
+
 <h2>
 	Exterior
 </h2>
