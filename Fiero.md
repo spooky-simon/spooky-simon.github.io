@@ -26,44 +26,41 @@ Interior
 <p>
 docs stuff:
 </p>
+Interior
+Dash
 
-<button class="collapsible" id="yaml">Interior</button>
-<div class="content" id="yamldata" markdown="1">
-	Interior
-	Dash
-	
-	Prototype w sign board and eva foam - need black foam, symmetric dash 
-	Contact cement eva to sign board, find other matl for substrate? Maybe sendcutsend abs?
-	Shortened IP upr trim - 10 deg down form hor
-	IP front trim 20 deg fwd from vertical
-	DS cross beam 72 deg rwd 	from vert
-	Put gage/gage cluster on ip front trim?
-	Ultragauge has windshield mount, can avoid dash gages - $100
-	Sheet of black foam https://tntcosplaysupply.com/product/eva-foam-sheets/ - $10
-	
-	
-	Console
-	
-	
-	Open? Need to fix power mirrors
-	
-	
-	Seats
-	
-	
-	Need new driver at least
-	Oh shit handle for pass
-	Harness
-	maybe
-	
-	
-	Steering Wheel
-	
-	
-	https://www.fiero.nl/forum/Forum2/HTML/128119.html
-	Adapter https://www.amazon.com/NRG-Innovations-SRK-170H-Hub-Adapter/dp/B001BC2J4G - $130
-	Quick release: https://getnrg.com/products/srk-200?variant=37067015880854 - $140
-	New steering wheel? $150-300 (NRG for ~120 as of early 2022)
+Prototype w sign board and eva foam - need black foam, symmetric dash 
+Contact cement eva to sign board, find other matl for substrate? Maybe sendcutsend abs?
+Shortened IP upr trim - 10 deg down form hor
+IP front trim 20 deg fwd from vertical
+DS cross beam 72 deg rwd 	from vert
+Put gage/gage cluster on ip front trim?
+Ultragauge has windshield mount, can avoid dash gages - $100
+Sheet of black foam https://tntcosplaysupply.com/product/eva-foam-sheets/ - $10
+
+
+Console
+
+
+Open? Need to fix power mirrors
+
+
+Seats
+
+
+Need new driver at least
+Oh shit handle for pass
+Harness
+maybe
+
+
+Steering Wheel
+
+
+https://www.fiero.nl/forum/Forum2/HTML/128119.html
+Adapter https://www.amazon.com/NRG-Innovations-SRK-170H-Hub-Adapter/dp/B001BC2J4G - $130
+Quick release: https://getnrg.com/products/srk-200?variant=37067015880854 - $140
+New steering wheel? $150-300 (NRG for ~120 as of early 2022)
 
 <!--	
 </div>
@@ -123,24 +120,4 @@ After doing some research (I work for GM, that certainly helps ) I found that a 
 
 Hydraulic decoupled suspension
 </p>
-
-
-
-<!-- Start Collapse.html -->
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = document.getElementById(this.id+"data");
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-<!-- End Collapse.html -->
 </html>
