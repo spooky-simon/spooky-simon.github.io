@@ -12,7 +12,10 @@
 	<p>yeah, but just don't do it... put the rant here later</p>
 	<h2>The Glory Days</h2>
 	<p>
-	matlab link splay calcs
+	matlab link splay calcs<br>
+	testing in nyc<br>
+	competition<br>
+	being in charge<br>
 	</p>
 <body>
 </html>
