@@ -2,7 +2,7 @@
 layout: default
 title: Project Car
 ---
-
+<html>
 <!--
 Fiero Page
 
@@ -141,3 +141,4 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 <!-- End Collapse.html -->
+</html>
