@@ -1,10 +1,6 @@
 ---
 layout: default
-title: Main
 ---
-<html>
-<title></title>
-<body>
 # Simon's Projects
 <p>
 	<ol>
@@ -20,4 +16,3 @@ title: Main
 	i hate html
 </p>
 <p> test 2 </p> <!-- used to see if site updated-->
-</body>
