@@ -1,2 +1,5 @@
 docs_list_title: ACME Documentation
 docs:
+
+- title: Deployment
+  url: fiero.html
