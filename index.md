@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Simon's Projects</h1>
@@ -10,5 +9,6 @@
 	</ol>
 	i hate html
 </p>
+<a href="Fiero.html">Fiero</a>
 </body>
 </html>
