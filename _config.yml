@@ -6,8 +6,8 @@ theme: jekyll-theme-minimal
 #    values:
 #      layout: default
 
-docs:
-  - title: Project Car
-    url: Fiero.html
-  - title: Formula SAE
-    url: Formula.html
+#docs:
+#  - title: poop1
+#    url: Fiero.html
+#  - title: poop2
+#    url: Formula.html
