@@ -13,4 +13,3 @@ title: Project Car
 	<h2>Exterior</h2>
 	<h2>Engine Swap</h2>
 <body>
-</html>

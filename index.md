@@ -3,6 +3,7 @@ layout: default
 title: Main
 ---
 <html>
+<title></title>
 <body>
 <h1>Simon's Projects</h1>
 <p>
