@@ -5,3 +5,9 @@ defaults:
       path: ""
     values:
       layout: default
+
+docs:
+  - title: Project Car
+    url: Fiero.html
+  - title: Formula SAE
+    url: Formula.html
