@@ -19,5 +19,5 @@ title: Main
 	</ol>
 	i hate html
 </p>
-<p> test </p> <!-- used to see if site updated-->
+<p> test 2 </p> <!-- used to see if site updated-->
 </body>
