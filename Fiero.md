@@ -15,13 +15,14 @@ Focus should be on problem and solution
 
 <h1>Fiero</h1>
 
-
+<!--
 <button class="collapsible" id="yaml">Click here for the code.</button>
 
 <div class="content" id="yamldata" markdown="1">
   TEST CONTENT test 2
 </div>
-
+-->
+Interior
 <p>
 docs stuff:
 </p>
@@ -63,9 +64,10 @@ docs stuff:
 	Adapter https://www.amazon.com/NRG-Innovations-SRK-170H-Hub-Adapter/dp/B001BC2J4G - $130
 	Quick release: https://getnrg.com/products/srk-200?variant=37067015880854 - $140
 	New steering wheel? $150-300 (NRG for ~120 as of early 2022)
-	
-</div>
 
+<!--	
+</div>
+-->
 <h2>
 	Exterior
 </h2>
