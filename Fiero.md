@@ -1,3 +1,7 @@
+---
+title: Project Car
+---
+
 <!--
 Fiero Page
 
@@ -7,9 +11,7 @@ This is a showcase of my engineering outside of work
 Focus should be on problem and solution
 
 -->
----
-title: Project Car
----
+
 <h1>Fiero</h1>
 
 
