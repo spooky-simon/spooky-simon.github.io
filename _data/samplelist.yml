@@ -2,10 +2,4 @@ docs_list_title: ACME Documentation
 docs:
 
 - title: poop1
-  url: Fiero.html
-	
-- title: poop2
-  url: Formula.html
-
-- title: poop3
-  url: Fiero.html
+    url: Fiero.html
