@@ -12,6 +12,8 @@ layout: default
 		</li>
 		<li>other stuff like woodworking and 3d prints</li>
 		<li>test</li><!-- used to see if site updated-->
+		<li> capstone project </li>
+		<li> other school prjects </li>
 	</ol>
 	i hate html
 </p>
