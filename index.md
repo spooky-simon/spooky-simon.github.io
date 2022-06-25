@@ -11,6 +11,7 @@
 			</li>
 			<li>Formula</li>
 			<li>other stuff like woodworking and 3d prints</li>
+			<li>test</li><!-- used to see if site updated-->
 		</ol>
 		i hate html
 	</p>
