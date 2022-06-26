@@ -20,7 +20,7 @@ The original engine made 140hp stock. Judging by the richness of exhaust and the
 
 ### Donor Engine
 
-The quintessential Fiero swap is a 3800 from the string of late 90s to mid 2000s sedans like the Buick Regal or Pontiac Grand Prix. The NA 3800 puts down just over 200hp. These can be found with a foctory supercharger that bumps it up to about 250. These engines are widely regarded as one of the better american engines of this generation, if not of all time. The iron block is sturdy, not prone to dramatic failure, can withstand a beating. It is ubiquitous enough to make modification and repair cheap, as well as support a flouroshing aftermarket for modifications.
+The quintessential Fiero swap is a 3800 from the string of late 90s to mid 2000s sedans like the Buick Regal or Pontiac Grand Prix. The NA 3800 puts down just over 200hp. These can be found with a foctory supercharger that bumps it up to about 250. These engines are widely regarded as one of the better american engines of this generation, if not of all time. The iron block is sturdy, not prone to dramatic failure, can withstand a beating. It is ubiquitous enough to make modification and repair cheap, as well as support a flourishing aftermarket for modifications.
 
 With my limited budget of $2000, I decided to go for a donor car rather than a donor engine. I thought I would be able to get the engine, trans, harness and accessories for the cost of an ebay engine itself. This was both right and wrong. The cars in my budget were all high mileage, and none that had the supercharged GTP trim were road worthy. In February of 2022, I settled on a red 2002 Grand Prix GT with 238,000 miles on the clock, which was high, but the car was in decent shape, and test drove well.
 
@@ -29,7 +29,6 @@ With my limited budget of $2000, I decided to go for a donor car rather than a d
 The engine had a suspected coolant leak, and a suspected oil leak. I neglected to root cause the issue as I was already planning to do a near-ocmplete teardown and rebuild of the engine. When tearing it down, there was a prominent lip in the engine casting at the oil pan interface. 
 
  estimate on teardown was from casting seal at oil pan, RTV applied to seal at interfaces
-
 
 #### Rebuild
 
