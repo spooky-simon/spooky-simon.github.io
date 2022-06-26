@@ -30,6 +30,8 @@ wheel turn reference frame
 
 ### 2019 Season: Powertrain Lead
 
+![The 2019 car at a test day. It is in the rain, the ground is wet. The engine is screaming. Life is good.](/docs/assets/2019_test_day_car.jpg)
+
 As a senior, I was given the job to lead the powertrain subsystem. Having never worked in powertrain in FSAE before, my approach was to make sure the work we did under my direction was bulletproof. I focused on documentation, data collection, and knowledge transfer.
 
 We broke the system into smaller systems: Intake, Engine, Exhaust, Drivetrain, and Shifter.
@@ -37,6 +39,8 @@ We broke the system into smaller systems: Intake, Engine, Exhaust, Drivetrain, a
 more words here
 
 ### 2018 Season: President
+
+![Final shot of the 2018 car. There are no wings on it. The main focus is the front left wheel which is turned to the right.](/docs/assets/2018_comp_car.jpg)
 
 <p>	
 matlab link splay calcs<br>
