@@ -46,6 +46,8 @@ As a senior, I was given the job to lead the powertrain subsystem. Having never 
 
 We broke the system into smaller systems: Intake, Engine, Exhaust, Drivetrain, and Shifter.
 
+Accomplishments: testing, documentation, building knowledge base.
+
 more words here
 
 ### 2018 Season: President

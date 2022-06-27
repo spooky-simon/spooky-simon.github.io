@@ -5,6 +5,7 @@ title: Project Car
 # Fiero
 
 ![Simon and the Fiero](/docs/assets/simon_and_fiero.jpg)
+*image_caption*
 
 ## Background
 
