@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-# Intro
+# About Me
 
-## Projects not added -v 
+Simon Cohen - Cooper Union class of 2019.
+
+I like engineering and cars. Escpecially engineering cars.
+
+See projects to the left.
+
+# Under construction:
 
 <ul>
-	<li>other stuff like woodworking and 3d prints</li>
-	<li>test</li><!-- used to see if site updated-->
+	<li> Woodworking </li>
 	<li> capstone project </li>
-	<li> other school prjects </li>
+	<li> other school projects </li>
 </ul>
 i hate html
