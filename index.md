@@ -5,7 +5,7 @@ layout: default
 
 Simon Cohen - Cooper Union class of 2019.
 
-I like engineering and cars. Escpecially engineering cars.
+I like engineering and cars. Especially engineering cars.
 
 See projects to the left.
 
