@@ -28,6 +28,7 @@
 		<ul>
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 			{% if item.url == page.url %}
+			<h3>test 1</h3>
 			<ul>
 				{% for entry in item.subfolderitems %}
 				<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
