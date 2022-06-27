@@ -9,7 +9,7 @@ title: Project Car
 
 ## Background
 
-<a href="/engine_swap.html"> ##Engine Swap </a>
+<a href="/engine_swap.html"> <h2>Engine Swap</h2> </a>
 
 ## Data Collection
 
