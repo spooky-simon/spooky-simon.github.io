@@ -31,8 +31,6 @@ With my limited budget of $2000, I decided to go for a donor car rather than a d
 
 The engine had a suspected coolant leak, and a suspected oil leak. I neglected to root cause the issue as I was already planning to do a near-ocmplete teardown and rebuild of the engine. When tearing it down, there was a prominent lip in the engine casting at the oil pan interface. 
 
-Please be patient while the site is under construction
-
 #### Tear down and Rebuild
 
 I was taught in school and by experience that whenever you buy a used engine, you have to tear it down before you use it. You never know the condition of these magic black boxes. Who knows what traps and dangers may reside within?
@@ -41,6 +39,15 @@ I borrowed and engine picker and stand from my neighbor and got to work.
 
 ![The 3800 engine from a 2002 pontiac grand prix on the backdrop of my backyard and garage. Oil stains are visible under the garage door. There is a pile of kindling on the side of the driveway.](/docs/assets/3800_escapee.jpg)
 *Engine pickers alwyas look like trebuchets, on the cusp of launching my block through the nearest castle window*
+
+Once on the stand, I invited a few friends over. It turns out dropping an engine into the middle of a pack of mechanical engineers looks eerily similar to dropping a nice juicy steak into a tank of pirhanas. I don't have any pictures because it was over before I could take my phone out of my pocket.
+
+As expected for an engine that had 238,000 miles under it's belt, some things had seen better days. The pistons were covered in crust, and there was distict evidence of blowby and crud (which i believe is the technical term). The rings were old news, and the carbon deposits looked like someone trying to season a cast iron pan.
+
+![A black gloved hand holding a piston from a 3800. the carbon deposits are evident up to 1cm below the piston rings and een oil seal ring.](/docs/assets/crusty_piston.jpg)
+*Ye olde crustye piston*
+
+Please be patient while the site is under construction
 
 ## Data Collection
 
