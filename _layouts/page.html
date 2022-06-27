@@ -27,13 +27,6 @@
 		{% for item in site.data.samplelist.docs %}
 		<ul>
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
-			<li>test 1</li>
-			<li> {{item.url}} </li>
-			<li> "/"|{{item.url}} </li>
-			<li> {{page.url}} <li>
-			{% if '/item.url' == page.url %}
-			<li>test 2</li>
-			{% endif %}
 			{% if "/" | {{item.url}} == page.url %}
 			<li>test 3</li>
 			{% endif %}
