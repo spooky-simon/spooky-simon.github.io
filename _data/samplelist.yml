@@ -3,6 +3,9 @@ docs:
 
 - title: Project Car
   url: Fiero.html
+  subfolderitems:
+  - page: Engine Swap
+    url: /engine_swap.html
 
 - title: FSAE
   url: Formula.html
