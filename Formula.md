@@ -27,6 +27,7 @@ wheel turn reference frame
 I have a complicated relationship with aero devices on Cooper Union's FSAE cars, and most FSAE cars in general. Aerodynamics as a field and as used in professional motorsports is neigh unimpeachable. It;s like a magic sauce sprinkled to make everything better and faster. To complicate things further: I built Cooper Union's first set of wings during the summer of my freshman year at Cooper with a gravity-fed hot wire cutter me and another student designed and built in a day. As you can see below, these wings really stressed the "concept" in "proof of concept"
 
 ![A picture of Simon lying next to the wings described above. The wings are blue and sanwiched between plywood end plates. Ben is leaning over them pointing. His face is obscured for privacy and "BEN" is written over it](/docs/assets/wings_v1.jpg)
+*The very first wings that ever did go on that car*
 
 This being said, I saw aero as an idea grow from an unimplemented senior project to a convoluted mess of foam, plastic, composites, and vinyl that cost the team untold man-hours and had zero imperical data to back it up. Every year, the team dutifully pumped out pretty pressure maps, and colorful flow analyses. Every year, we cut foam, sanded molds, and stuck our big NACA contraption on the back of our racecar. Every year, we promised we would get data to back it up, and every year we didn't. (until now haha, ty Aidan).
 
@@ -41,6 +42,7 @@ I know it can feel kinda lame to go backwards in terms of technology, and that's
 ### 2019 Season: Powertrain Lead
 
 ![The 2019 car at a test day. It is in the rain, the ground is wet. The engine is screaming. Life is good.](/docs/assets/2019_test_day_car.jpg)
+*The 2019 car at the last test day before competition. Rain is pouring, the ground is wet. The engine is screaming. Life is good. Note: Aero is not on the car, as it had not been finished.* 
 
 As a senior, I was given the job to lead the powertrain subsystem. Having never worked in powertrain in FSAE before, my approach was to make sure the work we did under my direction was bulletproof. I focused on documentation, data collection, and knowledge transfer.
 
@@ -53,6 +55,7 @@ more words here
 ### 2018 Season: President
 
 ![Final shot of the 2018 car. There are no wings on it. The main focus is the front left wheel which is turned to the right.](/docs/assets/2018_comp_car.jpg)
+*Final shot of the 2018 car after competition*
 
 <p>	
 matlab link splay calcs<br>
