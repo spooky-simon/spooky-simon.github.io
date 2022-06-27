@@ -33,6 +33,8 @@ The engine had a suspected coolant leak, and a suspected oil leak. I neglected t
 
  estimate on teardown was from casting seal at oil pan, RTV applied to seal at interfaces
 
+Please be patient while the site is under construction
+
 #### Rebuild
 
 ## Data Collection
