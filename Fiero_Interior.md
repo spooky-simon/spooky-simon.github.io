@@ -9,8 +9,9 @@ Step 1 in the engineering design process is always to figure out the problem. In
 I already have a reliable daily driver, so there's no need to keep it road-worthy all the time, so my scope can be quite large.
 <ul>
 <li> Comfort is a non-issue for the moment. </li>
-<li> Audio? supplied by the engine</li>
+<li> Audio? supplied by the engine
 	<ul><li>plus I need to be able to diagnose critical squeaks, rattles, bumps, dings, pops, bangs, and assorted other NVH and BSR). Performance?</li></ul>
+	</li>
 <li> Performance? as much as is reasonable. This means we can ignore the need for sound dampening and other frivolities.
 <li> Passenger comfort? I want the car to feel like you just might not come out of the drive totally intact, or totally sane, so we don't want any passenger comfort.
 
