@@ -1,3 +1,7 @@
+---
+title: test page
+layout: page
+---
 # Test page
 
 ## Test page
