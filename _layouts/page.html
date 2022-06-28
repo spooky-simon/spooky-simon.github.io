@@ -27,12 +27,14 @@
 		{% for item in site.data.samplelist.docs %}
 		<ul>
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+			
 			{% if "/" | {{item.url}} == {{page.url}} %}
 			<ul>
 				{% for entry in item.subfolderitems %}
+				{% if {{item.title}} = Project Car %}
 				{{item.subfolderitems}}
-				<!--<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-				{% endfor %}-->
+				<!--<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>-->
+				{% endfor %}
 			</ul>
 			{% endif %}
 		</ul>
