@@ -12,7 +12,7 @@ Step 1 in the engineering design process is always to figure out the problem. In
 
 * Audio? supplied by the engine
 
-  * Plus I need to be able to diagnose critical squeaks, rattles, bumps, dings, pops, bangs, and assorted other NVH and BSR).
+  * Plus I need to be able to diagnose critical squeaks, rattles, bumps, dings, pops, bangs, and assorted other NVH and BSR.
 
 * Performance? as much as is reasonable. This means we can ignore the need for sound dampening and other frivolities.
 
@@ -30,6 +30,12 @@ My investigation consisted largely of taking stuff out of the car, looking at it
 *I present to the reader: the Fiero as purchased. Banana demonstrates her appreciation by calling shotgun.* 
 
 The first to go was center console and unfortunate aftermarket audio installation.
+
+This exposed the carpet to be far from factory fresh. It was placed gently into the car ontop of fresh, inexpensive jute that had been sporadically secured with duct tape. I would love to do it right, but I don't think I have it in me at the moment to do interior decoration. This needs so much more fundamental work.
+
+### Carpeting
+
+Getting the attempted carpet installation out was relatively easy. I still have the majority of the jute and carpet in my garage just in case I want to do it right. I've moved that to the bottom of my to do list permanently. 
 
 ## Build Back Better
 
