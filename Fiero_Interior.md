@@ -22,7 +22,7 @@ After taking a quick peak at the quality, or lack thereof, that came with the ca
 
 ## Teardown
 
-Step 1 of the engineering design process is figuring out the problem, or as Mao says: When you have investigated the problem thoroughly, you will know how to solve it. I am not investigating pre-communist China, but the principle holds. 
+Step 1 of the engineering design process is figuring out the problem, or as Mao says: "When you have investigated the problem thoroughly, you will know how to solve it". I am not investigating pre-communist China, but the principle holds. 
 
 My investigation consisted largely of taking stuff out of the car, looking at it, and saying one of two things: "huh, that sucks" or "wow, this car is old".
 

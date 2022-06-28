@@ -2,7 +2,7 @@
 layout: page
 title: Senior Project
 ---
-site under construction
+# Capstone Project
 
 In my senior year of college (fall 2018 - Spring 2019) I teamed up with my two good friends and at-the-time captains of the FSAE team to triple dip a single project for the school year. Our goal: A single project that we could submit to our professors as a capstone worthy project, a project requirement for a design class, and as work we could showcase at the FSAE competition in May. The plan: turbocharge our Honda CBR600RR that we used to the FSAE car.
 
