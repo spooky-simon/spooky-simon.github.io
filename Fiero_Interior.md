@@ -26,7 +26,8 @@ Step 1 of the engineering design process is figuring out the problem, or as Mao 
 
 My investigation consisted largely of taking stuff out of the car, looking at it, and saying one of two things: "huh, that sucks" or "wow, this car is old".
 
-pic of new to me interior
+![A picture of the Fiero from the left, with the passenger door open, and my dog sitting in the passenger seat](/docs/assets/fiero_interior_banana.jpg)
+*I present to the reader: the Fiero as purchased. Banana demonstrates her appreciation by calling shotgun.* 
 
 The first to go was center console and unfortunate aftermarket audio installation.
 
