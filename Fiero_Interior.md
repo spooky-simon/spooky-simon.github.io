@@ -1,5 +1,5 @@
 ---
-title: Fiero Interior
+title: Interior
 layout: page
 ---
 # Fiero Interior
