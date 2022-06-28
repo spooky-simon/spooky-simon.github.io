@@ -6,14 +6,13 @@ layout: page
 
 Step 1 in the engineering design process is always to figure out the problem. In this case, my problem can only be defined once I actually know what I want. I guess this is step 0 in the engineering design process.
 
-I already have a reliable daily driver, so there's no need to keep it road-worthy all the time, so my scope can be quite large.
-<ul>
-<li> Comfort is a non-issue for the moment. </li>
-<li> Audio? supplied by the engine
-	<ul><li>plus I need to be able to diagnose critical squeaks, rattles, bumps, dings, pops, bangs, and assorted other NVH and BSR). Performance?</li></ul>
-	</li>
-<li> Performance? as much as is reasonable. This means we can ignore the need for sound dampening and other frivolities.
-<li> Passenger comfort? I want the car to feel like you just might not come out of the drive totally intact, or totally sane, so we don't want any passenger comfort.
+* I already have a reliable daily driver, so there's no need to keep it road-worthy all the time, so my scope can be quite large.
+
+* Audio? supplied by the engine
+
+  * Plus I need to be able to diagnose critical squeaks, rattles, bumps, dings, pops, bangs, and assorted other NVH and BSR). </li></ul>
+* Performance? as much as is reasonable. This means we can ignore the need for sound dampening and other frivolities.
+* Passenger comfort? I want the car to feel like you just might not come out of the drive totally intact, or totally sane, so we don't want any passenger comfort.
 
 After taking a quick peak at the quality, or lack thereof, that came with the car, I settled on  gutting the interior, reminiscent of home brew rally racers (flocked dash not included).
 
