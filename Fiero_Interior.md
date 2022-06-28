@@ -2,7 +2,9 @@
 title: Fiero Interior
 layout: page
 ---
-# Goals
+# Fiero Interior
+
+## Goals
 
 Step 1 in the engineering design process is always to figure out the problem. In this case, my problem can only be defined once I actually know what I want. I guess this is step 0 in the engineering design process.
 
@@ -18,7 +20,7 @@ Step 1 in the engineering design process is always to figure out the problem. In
 
 After taking a quick peak at the quality, or lack thereof, that came with the car, I settled on  gutting the interior, reminiscent of home brew rally racers (flocked dash not included).
 
-# Teardown
+## Teardown
 
 Step 1 of the engineering design process is figuring out the problem, or as Mao says: When you have investigated the problem thoroughly, you will know how to solve it. I am not investigating pre-communist China, but the principle holds. 
 
@@ -28,12 +30,12 @@ pic of new to me interior
 
 The first to go was center console and unfortunate aftermarket audio installation.
 
-# Build Back Better
+## Build Back Better
 
-## Harnessing
+### Harnessing
 
-## Dash
+### Dash
 
-## Seats
+### Seats
 
-## Steering Wheel
+### Steering Wheel
