@@ -6,7 +6,7 @@ layout: page
 
 Step 1 in the engineering design process is always to figure out the problem. In this case, my problem can only be defined once I actually know what I want. I guess this is step 0 in the engineering design process.
 
-I already have a relable daily driver, so there's no need to keep it road-worthy all the time, so my scope can be quite large.
+I already have a reliable daily driver, so there's no need to keep it road-worthy all the time, so my scope can be quite large.
 <ul>
 <li> Comfort is a non-issue for the moment. </li>
 <li> Audio? supplied by the engine</li>
