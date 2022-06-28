@@ -31,7 +31,7 @@ I was taught in school and by experience that whenever you buy a used engine, yo
 I borrowed and engine picker and stand from my neighbor and got to work.
 
 ![The 3800 engine from a 2002 pontiac grand prix on the backdrop of my backyard and garage. Oil stains are visible under the garage door. There is a pile of kindling on the side of the driveway.](/docs/assets/3800_escapee.jpg)
-*Engine pickers alwyas look like trebuchets, on the cusp of launching my block through the nearest castle window*
+*Engine pickers always look like trebuchets, on the cusp of launching my block through the nearest castle window*
 
 Once on the stand, I invited a few friends over. It turns out dropping an engine into the middle of a pack of mechanical engineers looks eerily similar to dropping a nice juicy steak into a tank of pirhanas. I don't have any pictures because it was over before I could take my phone out of my pocket.
 
