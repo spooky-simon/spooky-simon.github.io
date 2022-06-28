@@ -6,8 +6,8 @@ docs:
   subfolderitems:
   - page: Engine Swap
     url: /engine_swap.html
-  - page: test page
-    url: /testpage.html
+  - page: Fiero Interior
+    url: /Fiero_Interior.html
 
 - title: Formula SAE
   url: Formula.html
