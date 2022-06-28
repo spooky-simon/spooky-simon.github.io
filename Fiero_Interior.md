@@ -10,8 +10,10 @@ Step 1 in the engineering design process is always to figure out the problem. In
 
 * Audio? supplied by the engine
 
-  * Plus I need to be able to diagnose critical squeaks, rattles, bumps, dings, pops, bangs, and assorted other NVH and BSR). </li></ul>
+  * Plus I need to be able to diagnose critical squeaks, rattles, bumps, dings, pops, bangs, and assorted other NVH and BSR).
+
 * Performance? as much as is reasonable. This means we can ignore the need for sound dampening and other frivolities.
+
 * Passenger comfort? I want the car to feel like you just might not come out of the drive totally intact, or totally sane, so we don't want any passenger comfort.
 
 After taking a quick peak at the quality, or lack thereof, that came with the car, I settled on  gutting the interior, reminiscent of home brew rally racers (flocked dash not included).
