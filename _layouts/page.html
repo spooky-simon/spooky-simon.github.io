@@ -30,7 +30,7 @@
 			
 			{% if "/" | {{item.url}} == {{page.url}} %}
 			<ul>
-				{% if {{item.title}} == "Project Car" %}
+				{% if item.title == page.title %}
 					{% for entry in item.subfolderitems %}
 						{{item.subfolderitems}}
 					<!--<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>-->
