@@ -37,6 +37,9 @@
 					<!-- <li><a href="{{ entry.url }}">{{ entry.page }}</a></li> -->
 					{% endfor %}
 				{% endif %}
+				{% if entry in item.subfolderitems %}
+					<li>test1</li>
+				{% endif %}
 			</ul>
 			{% endif %}
 		</ul>
