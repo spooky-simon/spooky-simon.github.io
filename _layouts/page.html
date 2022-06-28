@@ -38,8 +38,8 @@
 				
 				<!-- if in sub page, list other subpages -->
 				{%- for entry in item.subfolderitems -%}
-					<li> {{entry.title}} </li>
-					{%- if entry.title == page.title -%}
+					<li> {{entry.page}} </li>
+					{%- if entry.page == page.title -%}
 						<li> match found </li>
 						{%- for entry in item.subfolderitems -%}
 							<li><a href = "{{entry.url}}">{{entry.page}}</a></li>
