@@ -2,4 +2,4 @@
 
 ## Test page
 
-Banana is stinky
+Banana is stinky (new)

@@ -2,4 +2,4 @@
 
 ## Test page 2
 
-Banana is still stinky
+Banana is still stinky (new)
