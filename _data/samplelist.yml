@@ -12,5 +12,6 @@ docs:
 
 - title: Senior Project
   url: Senior_Project.html
+  subfolderitems:
   - page: Test Page
     url: /testpage.html
