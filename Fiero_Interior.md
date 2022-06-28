@@ -26,7 +26,7 @@ My investigation consisted largely of taking stuff out of the car, looking at it
 
 pic of new to me interior
 
-The first to go was ____.
+The first to go was center console and unfortunate aftermarket audio installation.
 
 # Build Back Better
 
