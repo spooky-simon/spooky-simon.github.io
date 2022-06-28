@@ -6,6 +6,8 @@ docs:
   subfolderitems:
   - page: Engine Swap
     url: /engine_swap.html
+  - page: Test Page
+    url: /testpage.html
 
 - title: FSAE
   url: Formula.html
