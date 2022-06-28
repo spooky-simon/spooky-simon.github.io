@@ -4,6 +4,4 @@ layout: page
 ---
 # Test page
 
-## Test page
-
-Banana is stinky (new)
+im just using this to test stuff
