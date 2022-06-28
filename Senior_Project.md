@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Car
+title: Senior Project
 ---
 site under construction
 
