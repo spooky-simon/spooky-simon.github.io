@@ -17,7 +17,7 @@ This being my first project, I decided the best move was to bring it home, fix a
 
 ## <a href="/engine_swap.html">Engine Swap</a>
 
-## <a href="/Fiero_interior.html">Interior</a>
+## <a href="/Fiero_Interior.html">Interior</a>
 
 ## Data Collection
 
