@@ -36,7 +36,7 @@
 					<!--	{{item.subfolderitems}} -->
 					<!-- <li><a href="{{ entry.url }}">{{ entry.page }}</a></li> -->
 					{% endfor %}
-					{% if page.title in item.subforlderitems %}
+					{% if item.subforlderitems contains page.title %}
 						<li>poop1</li>
 					{% endif %}
 				{% endif %}
