@@ -6,14 +6,9 @@ docs:
   subfolderitems:
   - page: Engine Swap
     url: /engine_swap.html
-  - page: Test Page 2
-    url: /testpage2.html
 
 - title: Formula SAE
   url: Formula.html
-  subfolderitems:
-  - page: Test Page
-    url: /testpage.html
 
 - title: Senior Project
   url: Senior_Project.html
