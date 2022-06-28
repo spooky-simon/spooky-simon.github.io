@@ -17,14 +17,12 @@ This being my first project, I decided the best move was to bring it home, fix a
 
 ## <a href="/engine_swap.html">Engine Swap</a>
 
+## <a href="/Fiero_interior.html">Interior</a>
+
 ## Data Collection
 
-## Interior
-
-### Dash
-
-### Seats
-
-### Steering Wheel
-
 ## Exterior
+
+### Brakes
+
+### Widebody?
