@@ -9,7 +9,7 @@ docs:
   - page: Test Page 2
     url: /testpage2.html
 
-- title: FSAE
+- title: Formula SAE
   url: Formula.html
   subfolderitems:
   - page: Test Page
