@@ -11,6 +11,9 @@ docs:
 
 - title: Formula SAE
   url: Formula.html
+  subfolderitems:
+  - page: 2019 FSAE Season
+    url: /2019_FSAE.html
 
 - title: Senior Project
   url: Senior_Project.html
