@@ -31,7 +31,17 @@ Since Garret sponsors FSAE teams with a free turbocharger and factory design sup
 
 Ricardo Wave is a 1 dimensional engine simulator written primarily in python. It's analysis focuses primarily on air flow and pressure waves. Because the program is so frequently used in FSAE, there is a stock CBR600RR model included in the software examples that can be tuned to individual teams.
 
-The most impactful tuning parameters are the intake runner lengths and the valve events. The intake runner lengths on the face are easy to measure: pull up the CAD and click "measure". Unfortunately, the pressure waves in the real engine disagree. The specific geometry of the runners, port geometry, plenum, and the interfaces between them all impact the distance that the dominant pressure wave has to travel. We solved this by starting with the CAD measurement, and then tuning the length parameter in the program until it matched our dyno test curve. Our team had previously had the stock cam profile measured by an outside company, but to ensure accuracy, I measured it myself with a surface plate and an indicator. I found the third party company had greatly overestimated our cam's lobe opening and closing ramp rise.
+The most impactful tuning parameters are the intake runner lengths and the valve events. The intake runner lengths on the face are easy to measure: pull up the CAD and click "measure". Unfortunately, the pressure waves in the real engine disagree. The specific geometry of the runners, port geometry, plenum, and the interfaces between them all impact the distance that the dominant pressure wave has to travel. We solved this by starting with the CAD measurement, and then tuning the length parameter in the program until it matched our dyno test curve. Our team had previously had the stock cam profile measured by an outside company, but to ensure accuracy, I measured it myself with a surface plate and an indicator. The most important behavior driving features of the cam profiles are the valve timing events:
+
+1. Intake valve closing
+
+1. Intake valve opening
+
+1. Exhaust valve closing
+
+1. Exhaust valve opening
+
+My measurements aligned perfectly with the measurements we were sent. However, I found the third party company had greatly overestimated our cam's lobe opening and closing ramp rise. 
 
 ![A graph of two cam profiles overlayed.](/docs/assets/cam_profiles.jpg)
 *Also note the finer detail I was able to obtain by measuring in house.*
