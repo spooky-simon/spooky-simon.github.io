@@ -18,10 +18,6 @@ The grahics for the pages were made in inkscape, a free design software that can
 
 ## Alumni Outlook and Accomplishments
 
-<p>
-wheel turn reference frame
-</p>
-
 ### Aero
 
 I have a complicated relationship with aero devices on Cooper Union's FSAE cars, and most FSAE cars in general. Aerodynamics as a field and as used in professional motorsports is neigh unimpeachable. It;s like a magic sauce sprinkled to make everything better and faster. To complicate things further: I built Cooper Union's first set of wings during the summer of my freshman year at Cooper with a gravity-fed hot wire cutter me and another student designed and built in a day. As you can see below, these wings really stressed the "concept" in "proof of concept"
@@ -46,20 +42,14 @@ I know it can feel kinda lame to go backwards in terms of technology, and that's
 
 As a senior, I was given the job to lead the powertrain subsystem. Having never worked in powertrain in FSAE before, my approach was to make sure the work we did under my direction was bulletproof. I focused on documentation, data collection, and knowledge transfer.
 
+<!--
 We broke the system into smaller systems: Intake, Engine, Exhaust, Drivetrain, and Shifter.
 
 Accomplishments: testing, documentation, building knowledge base.
 
 more words here
-
+-->
 ### 2018 Season: President
 
 ![Final shot of the 2018 car. There are no wings on it. The main focus is the front left wheel which is turned to the right.](/docs/assets/2018_comp_car.jpg)
 *Final shot of the 2018 car after competition*
-
-<p>	
-matlab link splay calcs<br>
-testing in nyc<br>
-competition<br>
-being in charge<br>
-</p>
