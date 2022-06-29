@@ -10,7 +10,13 @@ I will spoil it for you: we had mixed success. Our project was accepted under st
 
 We were not trailblazing here. Multiple other teams have published extensive papers on successful implementations of this idea. Notably: Cornell and Wisconsin (who turbocharged a single cylinder). We had a few speedbumps to overcome before we could even get started: none of us had a strong foundation on boosted combustion vehicles, none of us had a strong foundation on dyno operating and tuning, we had a non-functional dynamometer to begin with, and our engine was leaking. Despite these small inconveniences, we were unfazed.
 
-As powertrain lead of the FSAE team <a href="Formula.html">that year</a>, it fell upon me to get our engine in running order and our dyno functional. The engine leak was a gasket issue, of course, but that was only discovered after a complete teardown. The dyno was more troublesome. First I found numerous issues with the aging harness. Then the signal to the computers was being routed through stranded wires plugged into what looked like a 12 cent breadboard. We were starting and running the engine with a battery that would run out of charge frequently. Once I got it running, I learned that if you mis-wire the fuel injectors, the intake will explode, very fun.
+## Test Stand
+
+Part of our project required us to revamp the test stand and dynomometer. As powertrain lead of the FSAE team <a href="Formula.html">that year</a>, it fell upon me to get our engine in running order and our dyno functional. The engine leak was a gasket issue, of course, but that was only discovered after a complete teardown. The dyno was more troublesome. First I found numerous issues with the aging harness. Then the signal to the computers was being routed through stranded wires plugged into what looked like a 12 cent breadboard. We were starting and running the engine with a battery that would run out of charge frequently. Once I got it running, I learned that if you mis-wire the fuel injectors, the intake will explode, very fun.
+
+## System Design
+
+Part of our other design 
 
 Outline:
 * test stand
