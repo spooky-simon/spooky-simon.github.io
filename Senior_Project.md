@@ -41,7 +41,7 @@ The most impactful tuning parameters are the intake runner lengths and the valve
 
 1. Exhaust valve opening
 
-My measurements aligned perfectly with the measurements we were sent. However, I found the third party company had greatly overestimated our cam's lobe opening and closing ramp rise. 
+My measurements for valve timing events aligned perfectly with the measurements we were sent. However, I found the third party company had greatly overestimated our cam's lobe opening and closing ramp rise.
 
 ![A graph of two cam profiles overlayed.](/docs/assets/cam_profiles.jpg)
 *Also note the finer detail I was able to obtain by measuring in house.*
