@@ -12,11 +12,31 @@ We were not trailblazing here. Multiple other teams have published extensive pap
 
 ## Test Stand
 
-Part of our project required us to revamp the test stand and dynomometer. As powertrain lead of the FSAE team <a href="Formula.html">that year</a>, it fell upon me to get our engine in running order and our dyno functional. The engine leak was a gasket issue, of course, but that was only discovered after a complete teardown. The dyno was more troublesome. First I found numerous issues with the aging harness. Then the signal to the computers was being routed through stranded wires plugged into what looked like a 12 cent breadboard. We were starting and running the engine with a battery that would run out of charge frequently. Once I got it running, I learned that if you mis-wire the fuel injectors, the intake will explode, very fun.
+The part of the project for our design class required us to revamp the test stand and dynomometer. As powertrain lead of the FSAE team <a href="Formula.html">that year</a>, it fell upon me to get our engine in running order and our dyno functional. The engine leak was a gasket issue, of course, but that was only discovered after a complete teardown. The dyno was more troublesome. First I found numerous issues with the aging harness. Then the signal to the computers was being routed through stranded wires plugged into what looked like a 12 cent breadboard. We were starting and running the engine with a battery that would run out of charge frequently. Once I got it running, I learned that if you mis-wire the fuel injectors, the intake will explode, very fun.
+
+Under Construction:
+* Water pump
+* Oil pump
+* Radiator
 
 ## System Design
 
-Part of our other design 
+The work we submitted for our senior capstone class was the actual system design. This included characterizing the current system, and designing and implementing the turbocharger. In order to assist with our design, we turned to 1-D simulations using Ricardo Wave.
+
+### Turbocharger
+
+Since Garret sponsors FSAE teams with a free turbocharger and factory design support, our choice for sourcing was easy.
+
+### Simulations
+
+Ricardo Wave is a 1 dimensional engine simulator written primarily in python. It's analysis focuses primarily on air flow and pressure waves. Because the program is so frequently used in FSAE, there is a stock CBR600RR model included in the software examples that can be tuned to individual teams.
+
+The most impactful tuning parameters are the intake runner lengths and the valve events. The intake runner lengths on the face are easy to measure: pull up the CAD and click "measure". Unfortunately, the pressure waves in the real engine disagree. The specific geometry of the runners, port geometry, plenum, and the interfaces between them all impact the distance that the dominant pressure wave has to travel. We solved this by starting with the CAD measurement, and then tuning the length parameter in the program until it matched our dyno test curve. Our team had previously had the stock cam profile measured by an outside company, but to ensure accuracy, I measured it myself with a surface plate and an indicator. I found the third party company had greatly overestimated our cam's lobe opening and closing ramp rise.
+
+![A graph of two cam profiles overlayed.](/docs/assets/cam_profiles.jpg)
+* Also note the finer detail I was able to obtain by measuring in house.
+
+
 
 Outline:
 * test stand
