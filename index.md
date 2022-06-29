@@ -9,11 +9,10 @@ I like engineering and cars. Especially engineering cars.
 
 See projects to the left.
 
-# Under construction:
+### Under construction:
 
-<ul>
-	<li> Woodworking </li>
-	<li> capstone project </li>
-	<li> other school projects </li>
-</ul>
-i hate html
+* Woodworking 
+* capstone project
+* other school projects
+
+<sub>i hate html</sub>
