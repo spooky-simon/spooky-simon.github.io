@@ -36,8 +36,6 @@ The most impactful tuning parameters are the intake runner lengths and the valve
 ![A graph of two cam profiles overlayed.](/docs/assets/cam_profiles.jpg)
 * Also note the finer detail I was able to obtain by measuring in house.
 
-
-
 Outline:
 * test stand
 * system design
