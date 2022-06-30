@@ -51,6 +51,11 @@ Since all simulations are wrong, but some are useful, we focused on tuning the s
 ![A graph of our simulated torque numbers overlaid on experimental data](/docs/assets/turbo_sims.jpg)
 *Twins (1988)*
 
+Now we had our simulation dialed in, we could be confident in our predictions of what we would see under boost. I'm not going to go into too much detail on the work that went into choosing the turbocharger and the math that went into integrating it because I didn't do it, the credit goes to Aris and Stepan. Our simulation showed incredible expected results:
+
+![A graph of our simulated turbochargedtorque numbers overlaid on experimental data](/docs/assets/turbo_torque_sim.png)
+*If you're not scared, you're not going fast enough*
+
 Outline:
 * test stand
 * system design
