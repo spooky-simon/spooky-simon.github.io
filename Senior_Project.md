@@ -46,6 +46,11 @@ My measurements for valve timing events aligned perfectly with the measurements 
 ![A graph of two cam profiles overlayed.](/docs/assets/cam_profiles.jpg)
 *Also note the finer detail I was able to obtain by measuring in house.*
 
+Since all simulations are wrong, but some are useful, we focused on tuning the simulation to reflect the shape of the torque curve. This would enable us to predict the impact of changes to the system on the behavior of the engine.
+
+![A graph of our simulated torque numbers overlaid on experimental data](/docs/assets/turbo_sims.jpg)
+*Twins (1988)*
+
 Outline:
 * test stand
 * system design
