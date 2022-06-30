@@ -15,9 +15,13 @@ I picked up a blue 1987 GT from facebook marketplace. It had over 20,000 miles m
 
 This being my first project, I decided the best move was to bring it home, fix all the small issues, and just take things slow. This did not happen...
 
-## <a href="/engine_swap.html">Engine Swap</a>
+## Engine Swap
 
-## <a href="/Fiero_Interior.html">Interior</a>
+##### <a href="/engine_swap.html">Read More</a>
+
+## Interior
+
+##### <a href="/Fiero_Interior.html">Read More</a>
 
 ## Under Construction:
 
