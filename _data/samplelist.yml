@@ -8,6 +8,8 @@ docs:
     url: /engine_swap.html
   - page: Interior
     url: /Fiero_Interior.html
+  - page: Fiero Suspension
+    url: /Fiero_Suspension.html
 
 - title: Formula SAE
   url: Formula.html

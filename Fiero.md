@@ -27,6 +27,12 @@ Not benig able to break the rear tires free may partially be a result of the aut
 
 ##### <a href="/engine_swap.html">Read More</a>
 
+## Suspension
+
+This one is way down on the to-do list but check out the full page to see what's going on so far:
+
+##### <a href="/Fiero_Suspension.html">Read More</a>
+
 ## Under Construction:
 
 * Data Collection
