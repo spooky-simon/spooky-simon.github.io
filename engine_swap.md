@@ -42,4 +42,9 @@ As expected for an engine that had 238,000 miles under it's belt, some things ha
 ![A black gloved hand holding a piston from a 3800. the carbon deposits are evident up to 1cm below the piston rings and een oil seal ring.](/docs/assets/crusty_piston.jpg)
 *Ye olde crustye piston*
 
+Once pistons are out, I was able to get started putting things back together, the scary part. First order of business: hone the cylinders. These things were worn silky smooth and I'm partial to my pistons being lubricated properly. A flex ball hone ran me under a hundred and my 12v makita made short work of it. I was initially very nervous, what if I did it wrong? What if I took too much off? What if the cross hatching wasn't dead-on? As with most things, it really wasn't worth worrying about, it was easy to get the scratch pattern to look like it should, and almost no metal was actually removed.
+
+![image of the left bank of a 3800 with cylinders exposed after honing](/docs/assets/honed_cylinders.jpg)
+*Easier done than said.*	
+
 Please be patient while the site is under construction
