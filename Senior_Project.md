@@ -61,5 +61,4 @@ Outline:
 * system design
   * intake
   * exhaust
-  * 
 * posters
