@@ -23,7 +23,7 @@ The first thing I was able to sink my teeth into was "fixing up" the interior. I
 
 ## Engine Swap
 
-Not benig able to break the rear tires free may partially be a result of the automatic transmission, but can be solved with more juice.
+Not being able to break the rear tires free may partially be a result of the automatic transmission, but can be solved with more juice.
 
 ##### <a href="/engine_swap.html">Read More</a>
 

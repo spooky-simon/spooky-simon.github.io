@@ -47,4 +47,6 @@ Once pistons are out, I was able to get started putting things back together, th
 ![image of the left bank of a 3800 with cylinders exposed after honing](/docs/assets/honed_cylinders.jpg)
 *Easier done than said.*	
 
+With pistons cleaned, cylinders honed, and ring pliers purchased, I reinstalled the pistons with their shiny new rings, rod bearings, and rod bolts. It always feels a little wrong to just toss hardware, espacially if its as fancy as rod bolts, but alas. Next on the docket was puuting on the fancy new MLS head gaskets (ty Intense Racing) and ARP head studs. These two upgrades should allow for atleast one more rebuild without purchasing new parts as well as withstanding more of a beating. I feel very lucky as the 3800 head studs are about $100 as opposed to the multiple hundreds for most of my friends' builds. The heads required mild finagling as I refused to take the valves and valve springs apart, due to my garage being a particularly unclean engine build environment and these being mildly sensitive parts. Time will tell if this was unwise. 
+
 Please be patient while the site is under construction
