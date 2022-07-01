@@ -20,6 +20,7 @@ We have to ensure the wheels are level, my driveway is certainly not. I will shi
 
 Because the rera suspension is a backwards MacPherson strut, I'll need the same points for the front and rear, somewhat simplifying things. The points I'll need to get are the following:
 
+<!--
 | Point |
 |-------|
 | Upper Chassis |
@@ -30,3 +31,12 @@ Because the rera suspension is a backwards MacPherson strut, I'll need the same 
 | Lower Chassis Aft |
 | Steering Arm Inboard |
 | Steering Arm Outboard |
+-->
+* Upper Chassis 
+* Upper Upright 
+* Wheel Center 
+* Lower Upright
+* Lower Chassis Fore 
+* Lower Chassis Aft
+* Steering Arm Inboard
+* Steering Arm Outboard
