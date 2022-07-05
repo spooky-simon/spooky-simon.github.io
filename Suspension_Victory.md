@@ -5,6 +5,8 @@ layout: page
 
 # A Suspended Solution
 
+My senior year FSAE competition ended anticlimactically. Our car failed 3 laps into endurance after our lower control arm buckled, leading to a failed steering rack, and an undriveable car. The puzzling part: there's a bend right in the middle of the lower aft link. The car was rounding a slow corner, maybe 0.3-0.5 g of lateral acceleration. We were all stumped. I got another crack at the problem after graduating, unfortunately too late to finish endurance, but I can finally sleep at night.
+
 Lo and behold, the car that gets built after the pandemic, which continued to use our suspension geometry, breaks their lower control arm. I get this picture in March of 2022:
 
 ![A broken lower wishbone from a formula Sae car](/docs/assets/2020_LCA_failure.jpg)
