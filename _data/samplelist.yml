@@ -17,9 +17,9 @@ docs:
   - page: 2019 FSAE Season
     url: /2019_FSAE.html
   - page: Suspension Victory
-    url: Suspension_Victory.md
+    url: Suspension_Victory.html
   - page: Aerodynamics
-    url: Aerodynamics.md
+    url: Aerodynamics.html
 
 - title: Senior Project
   url: Senior_Project.html
