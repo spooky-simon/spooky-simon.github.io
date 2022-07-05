@@ -1,3 +1,9 @@
+---
+title: FSAE Aerodynamics
+layout: page
+---
+#FSAE Aerodynamics
+
 I have a complicated relationship with aero devices on Cooper Union's FSAE cars, and most FSAE cars in general. Aerodynamics as a field and as used in professional motorsports is unimpeachable. It makes all things racing better and faster. In FSAE, it certainly can improve things, but I've seen innumerable cars with immaculate aero that can't pass the technical inspection, often because of the wings. To complicate things further: I built Cooper Union's first set of wings during the summer of my freshman year at Cooper using a gravity-fed hot wire cutter another student and I designed and built in a day. As you can see below, these wings really stressed the "concept" in "proof of concept".
 
 ![A picture of Simon lying next to the wings described above. The wings are blue and sanwiched between plywood end plates. Ben is leaning over them pointing. His face is obscured for privacy and "BEN" is written over it](/docs/assets/wings_v1.jpg)

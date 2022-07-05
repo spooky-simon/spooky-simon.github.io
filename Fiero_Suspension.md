@@ -18,7 +18,7 @@ As stated 100 other times on this site, we have to figure out what we're working
 
 We have to ensure the wheels are level, my driveway is certainly not. I will shim the wheel with bits of ply and check with a laser level. After making sure we're on level ground (so to speak), I'll paintakingly measure the x,y,z positions of every pickup point on the car. Not looking forward to the process, but looking forward to the results.
 
-Because the rera suspension is a backwards MacPherson strut, I'll need the same points for the front and rear, somewhat simplifying things. The points I'll need to get are the following:
+The front suspension is a SLA double wishbone. The rear is a MacpPherson strut. I'll need to either find or painstakingly measure the 3D location for each suspension point.
 
 <!--
 | Point |
