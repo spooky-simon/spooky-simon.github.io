@@ -14,10 +14,6 @@ This project aligns very closely with my personal approach to engineering and st
 
 ##### <a href="/FS_Wiki.html">Read More</a>
 
-I am particularly proud of the <a href="https://fswiki.us/Intake">intake design</a> page for its completeness and the collaborative effort made by the community. Another point of pride is the graphics I made for the pages for <a href="https://fswiki.us/Tensioner">chain tensioning</a> and <a href="https://fswiki.us/Throttle">throttle design</a>.
-
-The grahics for the pages were made in inkscape, a free design software that can be found here: <a href= "https://inkscape.org/">https://inkscape.org/<a>
-
 ## Alumni Outlook and Accomplishments
 
 ### Suspension: Winning the battle, after losing the war

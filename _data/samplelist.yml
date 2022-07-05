@@ -14,6 +14,8 @@ docs:
 - title: Formula SAE
   url: Formula.html
   subfolderitems:
+  - page: FS Wiki
+    url: FS_Wiki.html
   - page: Suspension Victory
     url: Suspension_Victory.html
   - page: FSAE Aerodynamics
