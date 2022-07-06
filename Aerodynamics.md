@@ -19,4 +19,4 @@ Each year I write an email to the team stating the following:
 
 > I know it can feel kinda lame to go backwards in terms of technology, and that's definitely something we had to fight when I was on the team. I'm pretty confident that finishing the car earlier and more completely will be more than worth it.
 
-So far, the team has gone ahead and done a full aero package every year.
+So far, the team has gone ahead and done a full aero package every year. I take credit if they ever show up at comp without one.
