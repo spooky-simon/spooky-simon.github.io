@@ -20,6 +20,8 @@ We have to ensure the wheels are level, my driveway is certainly not. I will shi
 
 The front suspension is a SLA double wishbone. The rear is a MacpPherson strut. I'll need to either find or painstakingly measure the 3D location for each suspension point.
 
+
+### Suspension Kinematics
 <!--
 | Point |
 |-------|
